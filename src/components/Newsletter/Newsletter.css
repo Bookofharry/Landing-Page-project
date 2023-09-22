@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.Divvv{
+    display: flex;
+    justify-content: space-evenly;
+} 
+.Divvv1{
+    width: 27%;
+
+}
+.Divvv2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    width: 40%;
+    position: relative;
+    bottom: 17px;
+}
+.Butt{
+    width: 380px;
+    height: 60px;
+    border: 1px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(112, 111, 229, 0.2);
+    padding-left: 10px;
+
+    
+}
+.Email{
+    font-size: 30px;
+    color: rgba(46, 62, 92, 0.7);
+    position: relative;
+    top: 15px;
+    right: 12px;
+}
+.Addy{
+    font-size: 15px;
+    color: rgba(46, 62, 92, 0.7);
+    font-family: Poppins;
+    position: relative;
+    right: 10px;
+    top: 5px;
+}
+.Help{
+    font-size: 30px;
+    font-weight: 700;
+    color: #1E1F4B;
+    ;
+    
+}
+.News{
+    font-family: Poppins;
+    font-weight: 400;
+    size: 20px;
+}
+.Sub{
+    color: white;
+    border: 1px  blue;
+    background-color: rgba(112, 111, 229, 0.5);
+    size: 29px;
+    padding: 5px 30px 7px 30px;
+    position: relative;
+    top: 6px;
+    left: 6px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+.Mobile{
+    position: relative;
+    left: 17px;
+    top: 10px;
+
+}
+.Butt1{
+    background-color: rgba(159, 158, 250, 0.2);
+    width: 50px;
+    height: 50px;
+    border-radius: 11px;
+}
+.H1{
+    font-size: 25px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 0px;
+}
+.P1{
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2E3E5C;
+
+}

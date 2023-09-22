@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.Gridd1{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.Gridd2{
+    display: grid;
+    color: red;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 30%;
+    transform: rotate(25deg);
+}
+.Gridd2 p{
+    font-size: 50px;
+    margin: -50px;
+    margin-left: 70px;
+    position: relative;
+    left: 100px;
+    bottom: 40px;
+    color: #706FE5;
+}
+.Gridd3{
+    
+    width: 20%;
+}
+.Gridd3 h1{
+    text-align: center;
+   font-size: 30px;
+   position: relative;
+   left: 170px;
+   top: 50px;
+   font-family: 'Arial Narrow', sans-serif;
+   /* line-height: 50px; */
+   margin-bottom: -10px;
+   font-weight: 900;
+   color: #03014C;
+
+}
+h1 pre{
+    margin-top: 14px;
+    position: relative;
+    right: 40px;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: 'Arial Narrow', sans-serif;
+    color: #03014C;
+}
+.Gridd4{
+    margin: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 90px;
+    
+}
+.Gridd4 p{
+    font-size: 13px;
+    line-height: 40px;
+    width: 53%;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    color:  rgba(3, 1, 76, 0.7);
+    font-family: Poppins;
+    font-weight: 400;
+    
+
+    
+}
+strong{
+
+   font-size: 8rem; 
+   font-weight: 900;
+   font-family: Montserrat;
+}
+.Quote{
+    top: 10px;
+}
+.Strong{
+    transform: rotate(180deg);
+    color: #03014C;
+}
+.Strong1{
+    position: relative;
+    left: 860px;
+    bottom: 140px;
+    color: #706FE5;
+}
+.Strong2{
+    position: relative;
+    left: 765px;
+    color: #706FE5;
+    bottom: 300px;
+}
+.Gridd5{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    position: relative;
+    bottom: 210px;
+}
+.Gridd6{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-content: space-between;
+    margin-left: 250px;
+}
+.Pic{
+    padding: 10px;
+    margin-left: 30px;
+}
+.Pic3{
+    border: 2px #706FE5 solid;
+    border-radius: 50%;
+    padding: 1px;
+    margin-left: 50px;
+}
+.Divv{
+    width: 100%;
+    display: inline;
+}
+.Divv p{
+    width: 150px;
+}
+.Para{
+    font-size: 21px;
+    position: relative;
+    left: 30px;
+    line-height: 5px;
+    font-family: Poppins;
+    font-weight: 700;
+}
+.Para1{
+    font-size: 16px;
+    position: relative;
+    left: 20px;
+    font-family: Poppins;
+    font-weight: 500;
+}
